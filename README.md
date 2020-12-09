@@ -12,9 +12,9 @@ I tried to follow the Tetris wiki as close as possible when it came to spawning 
 	
 ## Compilation
 
-sdl-2.0.4 (or newer)
-llvm-5.0.0 (or newer)
-cmake-3.6.2 (or newer)
+sdl-2.0.4 (or newer)\n
+llvm-5.0.0 (or newer)\n
+cmake-3.6.2 (or newer)\n
 clang
 clang++
 
