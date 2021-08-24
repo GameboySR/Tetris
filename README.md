@@ -9,14 +9,6 @@ I tried to follow the Tetris wiki as close as possible when it came to spawning 
 	W          - drop
 	arrow keys - movement
 	ESC        - quit
-	
-## Compilation
-
-sdl-2.0.4 (or newer)<br/>
-llvm-5.0.0 (or newer)<br/>
-cmake-3.6.2 (or newer)<br/>
-clang<br/>
-clang++
 
 ## Other
 
